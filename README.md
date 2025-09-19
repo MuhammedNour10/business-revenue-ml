@@ -20,7 +20,7 @@ revenue_prediction_app/
 │── brand_encoder.pkl # Label Encoder for Brand
 
 
-##Description / About the App
+## Description / About the App
 
 
 The Revenue Prediction App is a machine learning-powered web application that allows users to predict the expected revenue of a product based on its key features.
