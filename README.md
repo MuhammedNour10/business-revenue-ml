@@ -27,11 +27,13 @@ The Revenue Prediction App is a machine learning-powered web application that al
 It is designed to be user-friendly, making it easy for business analysts, product managers, or anyone interested in sales forecasting to use the model without writing any code.
 🔹 Key Features:
 User Inputs:
-Year: The year of the product release or sales data.
-Brand: The product brand (categorical, encoded internally).
-Price: Selling price of the product.
-Sales: Total units sold or expected sales volume.
-Ratings: Average customer ratings.
+
+- Year: The year of the product release or sales data.
+- Brand: The product brand (categorical, encoded internally).
+- Price: Selling price of the product.
+- Sales: Total units sold or expected sales volume.
+- Ratings: Average customer ratings.
+- 
 Output:
 Predicted Revenue: The estimated revenue based on the entered values, displayed instantly.
 Benefits:
